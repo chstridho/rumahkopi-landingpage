@@ -1,0 +1,102 @@
+{
+  "slug": "kopi-rumah-premium-coffee",
+  "title": "Website Kopi Rumah - Premium Coffee Experience",
+  "category": "Landing Page",
+  "description": "Template landing page satu halaman yang elegan dan hangat untuk kafe kopi premium, dirancang untuk mengkonversi pengunjung menjadi pelanggan setia lewat visual yang memikat dan user experience yang smooth.",
+  "about": "Tampilkan karakter premium dari kafe kopi Anda dengan template ini. Didesain dengan estetika 'Warm Dark Mode' yang elegan menggunakan palet warna coklat emas, fokus pada kemudahan navigasi satu halaman. Menampilkan specialty coffee, statistik bisnis, testimonial pelanggan, dan integrasi WhatsApp untuk pemesanan dengan animasi modern yang membuat bisnis Anda terlihat eksklusif.",
+  "thumbnail": "/coffee-ambience.jpg",
+  "grids": [
+    "/espresso.jpg",
+    "/cappuccino.jpg",
+    "/cold-brew.jpg",
+    "/pastry.jpg"
+  ],
+  "features": [
+    {
+      "title": "Premium Menu Showcase",
+      "description": "Galeri produk interaktif dengan kartu menu yang menampilkan specialty coffee dengan deskripsi lengkap, harga, dan badge 'Signature Menu' atau 'Best Seller' untuk menonjolkan produk unggulan."
+    },
+    {
+      "title": "Dynamic Stats Counter",
+      "description": "Animasi angka statistik yang menampilkan jumlah pelanggan puas, tahun berdiri, varian kopi, dan barista bersertifikat untuk membangun kepercayaan pelanggan."
+    },
+    {
+      "title": "Smart WhatsApp Integration",
+      "description": "Formulir kontak dan tombol pemesanan yang langsung terhubung ke WhatsApp admin untuk reservasi meja, pemesanan kopi, atau pertanyaan dengan data terintegrasi otomatis."
+    },
+    {
+      "title": "Location & Hours Display",
+      "description": "Peta interaktif Google Maps dengan informasi lengkap jam operasional, alamat, nomor telepon, dan link kontak yang memudahkan pelanggan menemukan kafe Anda."
+    },
+    {
+      "title": "Smooth Scroll Animations",
+      "description": "Efek reveal konten yang halus saat pengguna scroll menggunakan AOS atau Framer Motion, memberikan pengalaman navigasi yang modern dan premium."
+    },
+    {
+      "title": "About & Brand Story",
+      "description": "Section detail yang menceritakan filosofi kafe, biji kopi pilihan, barista bersertifikat, dan ambience cozy untuk membangun emotional connection dengan pengunjung."
+    }
+  ],
+  "designedFor": [
+    "Kafe Kopi Specialty",
+    "Coffee Shop Premium",
+    "Kedai Kopi Modern",
+    "Branding Barista"
+  ],
+  "specialNotes": "Desain mengutamakan visual yang warm dan elegan dengan palet warna coklat (#2C1810), cream (#F5F1ED), dan gold (#D4AF70). Sangat praktis untuk integrasi WhatsApp booking dan semua interaksi pelanggan langsung masuk ke owner. Cocok untuk kafe dengan positioning premium yang ingin meningkatkan online presence dan conversion.",
+  "tags": [
+    "Kopi",
+    "Coffee Shop",
+    "Landing Page",
+    "WhatsApp Integration",
+    "Premium Branding",
+    "Specialty Coffee"
+  ],
+  "price": "299",
+  "originalPrice": "599",
+  "pages": "1 Halaman (Single Page)",
+  "delivery": "1-2 Hari",
+  "demoUrl": "https://kopi-rumah-landing.vercel.app/",
+  "sections": {
+    "navbar": {
+      "title": "Navigation Bar",
+      "features": ["Logo & Branding", "Menu Links", "Mobile Responsive", "Sticky Header", "CTA Button"]
+    },
+    "hero": {
+      "title": "Hero Section",
+      "features": ["Full-width Background", "Engaging Headline", "Subheadline", "Dual CTA Buttons", "Smooth Animations"]
+    },
+    "about": {
+      "title": "About Section",
+      "features": ["Brand Story", "Barista Image", "Philosophy", "Premium Beans Info", "Cozy Ambience"]
+    },
+    "menu": {
+      "title": "Menu Showcase",
+      "features": ["Product Grid", "Image Gallery", "Price Display", "Badge System", "Hover Animations"]
+    },
+    "map": {
+      "title": "Location Section",
+      "features": ["Google Maps Embed", "Operating Hours", "Address Info", "Contact Details", "Reservation CTA"]
+    },
+    "contact": {
+      "title": "Contact Section",
+      "features": ["WhatsApp Link", "Instagram Link", "Email Contact", "Contact Form", "Success Message"]
+    },
+    "footer": {
+      "title": "Footer",
+      "features": ["Logo & About", "Quick Links", "Location Info", "Social Media Links", "Legal Links"]
+    }
+  },
+  "colorPalette": {
+    "primary": "#2C1810",
+    "primaryForeground": "#F5F1ED",
+    "secondary": "#6B4423",
+    "accent": "#D4AF70",
+    "background": "#F5F1ED",
+    "card": "#FFFFFF"
+  },
+  "fontFamily": {
+    "headings": "Playfair Display",
+    "body": "Inter"
+  }
+}
